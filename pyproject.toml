@@ -1,6 +1,6 @@
 [project]
 name = "log-record-attribute-injector"
-version = "0.1.1"
+version = "0.1.2"
 description = "A logging.Filter subclass that adds predefined attributes like request_id and hostname to every LogRecord before formatting."
 requires-python = ">=3.10"
 dependencies = []
